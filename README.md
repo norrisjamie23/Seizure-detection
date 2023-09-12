@@ -1,6 +1,4 @@
 # Unsupervised Seizure Detection using a Convolutional Autoencoder
-
-## Objective
 This project trains a convolutional autoencoder for anomaly detection using publicly available interictal iEEG data. The end goal is to develop a channel-by-channel seizure detector, allowing us to analyse the onset and spread of a seizure, like so:
 ![seizure scores over time and channels](images/seizure_viz.png)
 
